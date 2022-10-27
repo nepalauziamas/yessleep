@@ -1,4 +1,4 @@
-name: Update archive
+name: Update archive 
 
 on:
   schedule:
